@@ -1,0 +1,8 @@
+eureka:
+  instance:
+    hostname: localhost
+spring:
+  application:
+    name: eurka-server
+server:
+  port: 18080
